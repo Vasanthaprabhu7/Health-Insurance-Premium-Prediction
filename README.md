@@ -165,5 +165,3 @@ Open the notebook and execute all cells.
 ---
 
 Thank you !!
-This project is intended for educational and learning purposes.
-````
